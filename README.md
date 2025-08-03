@@ -66,9 +66,7 @@ Integration with Other AWS Services: S3 and CloudFront integrate seamlessly with
 
 By combining Amazon S3 and CloudFront, you create a robust, secure, and performant infrastructure for your static website that can handle global traffic efficiently and cost-effectively.
 
-
-[AWS Project - Hosting Static website with CloudFront.pdf](https://github.com/user-attachments/files/21564084/AWS.Project.-.Hosting.Static.website.with.CloudFront.pdf)
-
+[AWS Project - Hosting Static website with CloudFront.pdf.zip](https://github.com/user-attachments/files/21564087/AWS.Project.-.Hosting.Static.website.with.CloudFront.pdf.zip)
 
 
 
